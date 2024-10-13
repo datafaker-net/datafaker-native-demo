@@ -1,4 +1,4 @@
-package com.example.demo
+package net.datafaker.native.demo
 
 import net.datafaker.Faker
 import org.springframework.boot.autoconfigure.SpringBootApplication
